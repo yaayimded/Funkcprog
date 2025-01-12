@@ -1,0 +1,2 @@
+1. A lambda függvény az egy név nélküli függvény.
+2. A magasabb rendű függvény egy másik függvényt vesz be paraméterként és/vagy ad ki eredményként.
